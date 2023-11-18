@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# restart again httpd
+sudo service apache2 restart
